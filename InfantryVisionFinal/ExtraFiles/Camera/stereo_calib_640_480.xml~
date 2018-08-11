@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<height>480</height>
+<width>640</width>
+<distance_const>9.2541179687500000e+04</distance_const>
+<f>4.5264706420898438e+02</f>
+<yparam_const>-7.0366125106811523e+00</yparam_const>
+<ground>284.</ground>
+<init_z>585.</init_z>
+</opencv_storage>
